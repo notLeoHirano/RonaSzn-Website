@@ -36,11 +36,11 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
-  color: white;
+  background:#545454;
+  color: #457da9;
   padding-top:30px;
   min-height:70px;
-  border-bottom: orange 3px solid;
+  border-bottom: #f26e69 3px solid;
 }
 
 header a{
@@ -70,7 +70,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color: orange;
+  color: #f26e69;
   font-weight:bold;
 }
 
@@ -98,5 +98,3 @@ header a:hover{
   font-size:20px;
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
 }
-
-
