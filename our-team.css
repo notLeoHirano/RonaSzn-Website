@@ -42,18 +42,18 @@ ul{
 
 /* Header **/
 header{
-  background:#545454;
-  color: #457da9;
+  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  color: black;
   padding-top:5px;
   min-height:50px;
-  border-bottom: #f26e69 3px solid;
-  position:fixed;
+  /*border-bottom: #3D405B 3px solid;*/
+  position:static;
   width: 100%;
   font-family: 'Open Sans', sans-serif;
 }
 
 header a{
-  color: white;
+  color: black;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
@@ -79,20 +79,12 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color: #f26e69;
+  color: #3D405B;
   font-weight:bold;
 }
 
 header a:hover{
   color:#cccccc;
-}
-
-/* Showcase */
-#showcase{
-  min-height:400px;
-  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
-  text-align:center;
-  color: black;
 }
 
 #showcase h1{
