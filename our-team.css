@@ -151,15 +151,6 @@ img {
   height: 220px;
   border-radius: 50%;
   border: 5px solid #3D405B;
-}
-
-.avatar > div {
-    width: 400px; /* Declare your value. Can be in relative units. */
-    display: inline-block;
-    vertical-align: top;
-}
-.avatar:after {
-    content: "";
-    width: 100%;
-    display: inline-block;
+  display: flex;
+  justify-content:space-between;
 }
