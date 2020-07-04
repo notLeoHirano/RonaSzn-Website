@@ -194,20 +194,9 @@ header a:hover{
   font-size:20px;
 }
 
-
-
-/* Google Form */
-#googleform{
-  min-height:0px;
-  background:+url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
-  text-align:center;
-  color: black;
-  padding-top:75px;
-}
-
-
 /* footer */
 #footer{
+  padding-top:75px;
   min-height:100px;
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
   text-align:center;
