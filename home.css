@@ -87,19 +87,6 @@ header a:hover{
   color:#cccccc;
 }
 
-.header img {
-  float: left;
-  width: 15px;
-  height: 15px;
-  background: #555;
-}
-
-.header h1 {
-  position: relative;
-  top: 18px;
-  left: 10px;
-}
-
 /* Showcase */
 #showcase{
   min-height:700px;
