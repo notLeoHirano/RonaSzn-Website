@@ -60,7 +60,6 @@ header a{
 }
 
 header li{
-  float:left;
   display:inline;
   padding: 0 20px 0 20px;
 }
@@ -96,7 +95,7 @@ header a:hover{
 }
 
 #showcase h1{
-  margin-top:75px;
+  margin-top:100px;
   font-size:55px;
   margin-bottom:10px;
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');

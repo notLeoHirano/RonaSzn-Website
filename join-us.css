@@ -47,7 +47,7 @@ header{
   padding-top:5px;
   min-height:50px;
   /*border-bottom: #3D405B 3px solid;*/
-  position:static;
+  position:relative;
   width: 100%;
   font-family: 'Open Sans', sans-serif;
 }
@@ -60,7 +60,6 @@ header a{
 }
 
 header li{
-  float:left;
   display:inline;
   padding: 0 20px 0 20px;
 }
@@ -86,6 +85,8 @@ header .highlight, header .current a{
 header a:hover{
   color:#cccccc;
 }
+
+
 /* Showcase */
 #showcase{
   min-height:400px;
