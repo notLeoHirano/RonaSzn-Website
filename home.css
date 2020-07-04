@@ -1,0 +1,235 @@
+body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#f4f4f4;
+}
+html {
+  overflow:   scroll;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+/* Global */
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+}
+
+ul{
+  margin:0;
+  padding:0;
+}
+
+.button_1{
+  height:38px;
+  background:#5D987B;
+  border:0;
+  padding-left: 20px;
+  padding-right:20px;
+  color: white;
+}
+
+.dark{
+  padding:15px;
+  background:#35424a;
+  color: #5e94eb;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+/* Header **/
+header{
+  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  color: black;
+  padding-top:5px;
+  min-height:50px;
+  /*border-bottom: #3D405B 3px solid;*/
+  position:static;
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header a{
+  color: black;
+  text-decoration:none;
+  text-transform: uppercase;
+  font-size:16px;
+}
+
+header li{
+  float:left;
+  display:inline;
+  padding: 0 20px 0 20px;
+}
+
+header #branding{
+  float:left;
+}
+
+header #branding h1{
+  margin:0;
+}
+
+header nav{
+  float:right;
+  margin-top:11px;
+}
+
+header .highlight, header .current a{
+  color: #3D405B;
+  font-weight:bold;
+}
+
+header a:hover{
+  color:#cccccc;
+}
+
+/* Showcase */
+#showcase{
+  min-height:700px;
+  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  text-align:center;
+  color: black;
+}
+
+#showcase h1{
+  margin-top:75px;
+  font-size:55px;
+  margin-bottom:10px;
+  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+}
+
+#showcase p{
+  font-size:20px;
+  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+}
+
+/* deep champagne */
+#champagne{
+  min-height:700px;
+  background:#F0C57F;
+  text-align:center;
+  color: black;
+}
+#champagne h1{
+  margin-top:75px;
+  font-size:55px;
+  margin-bottom:10px;
+}
+
+/* green sheen */
+#mint{
+  min-height:700px;
+  background:#5D987B;
+  text-align:center;
+  color: white;
+}
+#mint h1{
+  margin-top:75px;
+  font-size:55px;
+  margin-bottom:10px;
+}
+
+#mint p{
+  font-size:20px;
+}
+
+/* indepedence */
+#independence{
+  min-height:700px;
+  background:#3D405B;
+  text-align:center;
+  color: white;
+}
+#independence h1{
+  margin-top:75px;
+  font-size:55px;
+  margin-bottom:10px;
+}
+
+#independence p{
+  font-size:20px;
+}
+
+/* terra cotta */
+#terracotta {
+  min-height:700px;
+  background:#E07A5F;
+  text-align:center;
+  color: white;
+}
+#terracotta h1{
+  margin-top:75px;
+  font-size:55px;
+  margin-bottom:10px;
+}
+
+#terracotta p{
+  font-size:20px;
+}
+
+/* light slate blue/gray */
+#slate{
+  min-height:700px;
+  background:#6B8C9E;
+  text-align:center;
+  color: white;
+}
+#slate h1{
+  margin-top:75px;
+  font-size:55px;
+  margin-bottom:10px;
+}
+
+#slate p{
+  font-size:20px;
+}
+
+
+
+#champagne p{
+  font-size:20px;
+}
+
+
+
+/* Google Form */
+#googleform{
+  min-height:0px;
+  background:+url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  text-align:center;
+  color: black;
+  padding-top:75px;
+}
+
+
+/* footer */
+#footer{
+  min-height:100px;
+  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  text-align:center;
+  color: black;
+}
+#footer h1{
+  margin-top:75px;
+  font-size:55px;
+  margin-bottom:10px;
+}
+
+#footer h2{
+  font-size:16px;
+}
+
+#footer p{
+  font-size:8px;
+}
+
+a{ text-decoration: none; color:blue; }
+
+  a:visited { text-decoration: none; color:blue; }
+  a:focus { text-decoration: none; color:blue; }
+  a:hover { text-decoration: none; color:blue; }
+  a:hover, a:active { text-decoration: none; color:blue }
