@@ -216,9 +216,27 @@ header a:hover{
   font-size:8px;
 }
 
-a{ text-decoration: none; color:blue; }
+a{ text-decoration: none; color:black; }
 
-  a:visited { text-decoration: none; color:blue; }
-  a:focus { text-decoration: none; color:blue; }
-  a:hover { text-decoration: none; color:blue; }
-  a:hover, a:active { text-decoration: none; color:blue }
+  a:visited { text-decoration: none; color:black; }
+  a:focus { text-decoration: none; color:black; }
+  a:hover { text-decoration: none ; color:blue; }
+  a:hover, a:active { text-decoration: none; color:black }
+
+.button {
+    background-color: #5D987B;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius:6%;
+  }
+
+  .button:hover {
+    background-color: gray;
+    color: white;
+  }
