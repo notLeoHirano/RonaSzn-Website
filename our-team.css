@@ -158,4 +158,5 @@ img {
   height: 220px;
   border-radius: 50%;
   margin-right: 100px;
+  border: 5px solid #555;
 }
