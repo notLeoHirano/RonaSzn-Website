@@ -88,7 +88,7 @@ header a:hover{
 
 /* Showcase */
 #showcase{
-  min-height:700px;
+  min-height:600px;
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
   text-align:center;
   color: black;
@@ -108,7 +108,7 @@ header a:hover{
 
 /* deep champagne */
 #champagne{
-  min-height:700px;
+  min-height:600px;
   background:#F0C57F;
   text-align:center;
   color: black;
@@ -138,7 +138,7 @@ header a:hover{
 
 /* indepedence */
 #independence{
-  min-height:700px;
+  min-height:600px;
   background:#3D405B;
   text-align:center;
   color: white;
@@ -155,7 +155,7 @@ header a:hover{
 
 /* terra cotta */
 #terracotta {
-  min-height:700px;
+  min-height:600px;
   background:#E07A5F;
   text-align:center;
   color: white;
@@ -172,7 +172,7 @@ header a:hover{
 
 /* light slate blue/gray */
 #slate{
-  min-height:700px;
+  min-height:600px;
   background:#6B8C9E;
   text-align:center;
   color: white;
