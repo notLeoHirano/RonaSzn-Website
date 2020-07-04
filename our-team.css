@@ -151,6 +151,6 @@ img {
   height: 220px;
   border-radius: 50%;
   border: 5px solid #3D405B;
-  display: flex;
-  justify-content:space-between;
+  margin-left: 50px;
+  margin-right: 50px;
 }
