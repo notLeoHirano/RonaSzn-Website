@@ -176,7 +176,7 @@ header a:hover{
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 5px solid #F4A261;
+  border: 5px solid #E9C46A;
   margin-left: 50px;
   margin-right: 50px;
 }
@@ -187,22 +187,10 @@ header a:hover{
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 5px solid #E9C46A;
-  margin-left: 50px;
-  margin-right: 50px;
-}
-
-.avatar-technology {
-  margin-top: 50px;
-  object-fit: cover;
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
   border: 5px solid #2A9D8F;
   margin-left: 50px;
   margin-right: 50px;
 }
-
 
 .avatar-media {
   margin-top: 50px;
