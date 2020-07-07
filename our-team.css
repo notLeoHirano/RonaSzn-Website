@@ -1,5 +1,5 @@
 body{
-  font: 15px/1.5 Helvetica, sans-serif;
+  font: 15px/1.5 Arial,Helvetica,sans-serif;
   padding:0;
   margin:0;
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
@@ -47,21 +47,21 @@ ul{
 }
 
 h2{
-  font: Helvetica;
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
   font-size:16px;
 }
 p{
-  font: Helvetica;
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
   font-size:13px;
 }
 h3{
-  font: Helvetica;
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
   font-size:12px;
   color:gray;
   font-weight: lighter;
 }
 h4{
-  font: helvetica;
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
   font-size:20px;
 }
 
