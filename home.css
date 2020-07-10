@@ -96,8 +96,7 @@ header a:hover{
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
   text-align:center;
   color: black;
-  margin-left:350px;
-  margin-right:350px;
+
 }
 
 #showcase h1{
@@ -110,6 +109,8 @@ header a:hover{
 #showcase p{
   font-size:20px;
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  margin-left:350px;
+  margin-right:350px;
 }
 
 /* deep champagne */
@@ -118,6 +119,7 @@ header a:hover{
   background:#F0C57F;
   text-align:center;
   color: black;
+
 }
 #champagne h1{
   margin-top:75px;
@@ -126,6 +128,8 @@ header a:hover{
 }
 #champagne p{
   font-size:20px;
+  margin-left:350px;
+  margin-right:350px;
 }
 
 /* green sheen */
@@ -134,6 +138,7 @@ header a:hover{
   background:#5D987B;
   text-align:center;
   color: white;
+
 }
 #mint h1{
   margin-top:75px;
@@ -147,6 +152,8 @@ header a:hover{
 
 #mint p{
   font-size:20px;
+  margin-left:350px;
+  margin-right:350px;
 }
 
 /* independence */
@@ -164,6 +171,8 @@ header a:hover{
 
 #independence p{
   font-size:20px;
+  margin-left:350px;
+  margin-right:350px;
 }
 
 /* terra cotta */
@@ -186,6 +195,8 @@ header a:hover{
 
 #terracotta p{
   font-size:20px;
+  margin-left:350px;
+  margin-right:350px;
 }
 
 /* light slate blue/gray */
@@ -203,13 +214,15 @@ header a:hover{
 
 #slate p{
   font-size:20px;
+  margin-left:350px;
+  margin-right:350px;
 }
 
 
 /* footer */
 #footer{
+  min-height:600px;
   padding-top:75px;
-  min-height:100px;
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
   text-align:center;
   color: black;
