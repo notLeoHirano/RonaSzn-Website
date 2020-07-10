@@ -108,6 +108,8 @@ header a:hover{
 #showcase p{
   font-size:20px;
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  padding-right:325px;
+  padding-left:325px;
 }
 
 /* deep champagne */
@@ -121,6 +123,11 @@ header a:hover{
   margin-top:75px;
   font-size:55px;
   margin-bottom:10px;
+}
+#champagne p{
+  padding-right:325px;
+  padding-left:325px;
+  font-size:20px;
 }
 
 /* green sheen */
@@ -141,6 +148,8 @@ header a:hover{
 }
 
 #mint p{
+  padding-right:325px;
+  padding-left:325px;
   font-size:20px;
 }
 
@@ -158,6 +167,8 @@ header a:hover{
 }
 
 #independence p{
+  padding-right:325px;
+  padding-left:325px;
   font-size:20px;
 }
 
@@ -174,7 +185,14 @@ header a:hover{
   margin-bottom:10px;
 }
 
+#terracotta h2{
+  font-size:20px;
+  font-weight: normal;
+}
+
 #terracotta p{
+  padding-right:325px;
+  padding-left:325px;
   font-size:20px;
 }
 
@@ -192,14 +210,11 @@ header a:hover{
 }
 
 #slate p{
+  padding-right:325px;
+  padding-left:325px;
   font-size:20px;
 }
 
-
-
-#champagne p{
-  font-size:20px;
-}
 
 /* footer */
 #footer{
