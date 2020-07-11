@@ -274,7 +274,7 @@ a{ text-decoration: none; color:black; }
     color: white;
   }
 
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 1300px) {
     p {
       margin-left:0 !important;
       margin-right:0 !important;
