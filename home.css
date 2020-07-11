@@ -1,5 +1,5 @@
 body{
-  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  font: 15px/1.5 'Roboto', sans-serif;  
   padding:0;
   margin:0;
   background-color:#f4f4f4;
@@ -53,7 +53,7 @@ header{
   /*border-bottom: #3D405B 3px solid;*/
   position:relative;
   width: 100%;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 header a{
@@ -82,7 +82,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color: #3D405B;
+  color: #5D987B;
   font-weight:bold;
 }
 
@@ -100,10 +100,11 @@ header a:hover{
 }
 
 #showcase h1{
-  margin-top:100px;
+  margin-top:50px;
   font-size:55px;
   margin-bottom:10px;
   background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #showcase p{
@@ -125,6 +126,7 @@ header a:hover{
   margin-top:75px;
   font-size:55px;
   margin-bottom:10px;
+  font-family: 'Shadows Into Light', cursive;
 }
 #champagne p{
   font-size:20px;
@@ -144,6 +146,7 @@ header a:hover{
   margin-top:75px;
   font-size:55px;
   margin-bottom:10px;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #mint h2{
@@ -167,6 +170,7 @@ header a:hover{
   margin-top:75px;
   font-size:55px;
   margin-bottom:10px;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #independence p{
@@ -186,6 +190,7 @@ header a:hover{
   margin-top:75px;
   font-size:55px;
   margin-bottom:10px;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #terracotta h2{
@@ -211,6 +216,7 @@ header a:hover{
   margin-top:75px;
   font-size:55px;
   margin-bottom:10px;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #slate p{
@@ -232,6 +238,7 @@ header a:hover{
   margin-top:75px;
   font-size:55px;
   margin-bottom:10px;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 #footer h2{
@@ -259,7 +266,7 @@ a{ text-decoration: none; color:black; }
     display: inline-block;
     font-size: 20px;
     margin: 4px 2px;
-    border-radius:4px;
+    border-radius:10px;
   }
 
   .button:hover {

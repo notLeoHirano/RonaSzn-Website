@@ -1,5 +1,5 @@
 body{
-  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  font: 15px/1.5 'Roboto', sans-serif;  
   padding:0;
   margin:0;
   background-color:#f4f4f4;
@@ -49,7 +49,7 @@ header{
   /*border-bottom: #3D405B 3px solid;*/
   position:relative;
   width: 100%;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 header a{
@@ -78,13 +78,14 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color: #3D405B;
+  color: #5D987B;
   font-weight:bold;
 }
 
 header a:hover{
   color:#cccccc;
 }
+
 
 
 /* Showcase */
