@@ -42,7 +42,7 @@ ul{
 
 /* Header **/
 header{
-  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  background:white;
   color: black;
   padding-top:5px;
   min-height:50px;
@@ -78,7 +78,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color: #5D987B;
+  color: #F35E6A;
   font-weight:bold;
 }
 
@@ -90,7 +90,7 @@ header a:hover{
 
 /* Showcase */
 #showcase{
-  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  background:white;
   text-align:center;
   color: black;
 }
@@ -99,10 +99,10 @@ header a:hover{
   margin-top:150px;
   font-size:55px;
   margin-bottom:10px;
-  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  background:white;
 }
 
 #showcase p{
   font-size:20px;
-  background:url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4-HxAw48IyQ%2Fmaxresdefault.jpg&f=1&nofb=1');
+  background:white;
 }
