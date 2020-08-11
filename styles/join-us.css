@@ -108,9 +108,9 @@ header a:hover{
   background:white;
 }
 
-  @media only screen and (max-width: 1300px) {
+  @media only screen and (max-width: 1000px) {
     p {
-      min-height:3500px !important;
+      min-height:4000px !important;
    }
  } 
 
