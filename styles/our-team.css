@@ -165,3 +165,9 @@ header a:hover{
   margin-left: 65px;
   margin-right: 65px;
 }
+
+  @media only screen and (max-width: 1300px) {
+    p {
+      min-height:3000px !important;
+   }
+ } 
