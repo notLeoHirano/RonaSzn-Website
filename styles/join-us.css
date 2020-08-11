@@ -90,10 +90,10 @@ header a:hover{
 
 /* Showcase */
 #showcase{
+  min-height:600px;
   background:white;
   text-align:center;
   color: black;
-  height:100%;
 }
 
 #showcase h1{
