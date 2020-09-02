@@ -17,7 +17,7 @@ body{
 
 /* Global */
 .container{
-  width:80%;
+;
   margin:auto;
   overflow:hidden;
 }
@@ -45,6 +45,10 @@ header{
   position:relative;
   width: 100%;
   font-family: 'Oswald', sans-serif;
+}
+
+header .container{
+  width:80%;
 }
 
 header a{
@@ -83,7 +87,7 @@ header a:hover{
 
 /* Showcase */
 #showcase{
-  min-height:600px;
+  min-height:550px;
   background:white;
   text-align:center;
   color: black;
@@ -277,9 +281,14 @@ a{ text-decoration: none; color:black; }
 /* Three columns side by side */
  .column {
   float: left;
-  width: 32.28%;
   margin-bottom: 16px;
   padding: 0 8px;
+  width:33.33%;
+  margin-right: 0px;
+  margin-left:0px;
+  padding-right: 0px;
+  padding-left: 0px;
+
 } 
 
 /* Add some shadows to create a card effect */
