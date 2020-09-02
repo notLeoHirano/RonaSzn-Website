@@ -270,6 +270,11 @@ a{ text-decoration: none; color:black; }
   }
 
   @media only screen and (max-width: 1300px) {
+    h2 {
+      padding-left:50px;
+      padding-right:50px;
+    }
+
     p {
       margin-left:0 !important;
       margin-right:0 !important;
