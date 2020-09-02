@@ -271,8 +271,8 @@ a{ text-decoration: none; color:black; }
 
   @media only screen and (max-width: 1300px) {
     h2 {
-      padding-left:50px;
-      padding-right:50px;
+      padding-left:45px;
+      padding-right:55px;
     }
 
     p {
