@@ -83,7 +83,7 @@ header a:hover{
 
 /* Showcase */
 #showcase{
-  min-height:565px;
+  min-height:600px;
   background:white;
   text-align:center;
   color: black;
@@ -101,8 +101,6 @@ header a:hover{
 #showcase p{
   font-size:20px;
   background:white;
-  margin-left:350px;
-  margin-right:350px;
 }
 
 #first{
@@ -274,3 +272,49 @@ a{ text-decoration: none; color:black; }
       width:100% !important;
    }
  } 
+
+/* FOR THE HOURS/TUTORS THINGIE*/
+/* Three columns side by side */
+ .column {
+  float: left;
+  width: 32.28%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+} 
+
+/* Add some shadows to create a card effect */
+/* .card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+} */
+
+/* Some left and right padding inside the container */
+/* .container {
+  padding: 0 16px;
+} */
+
+/* Clear floats */
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+
+.title {
+  color: grey;  
+
+}
+
+ .card h2 {
+  font-size: 30px;
+  padding-top: 0%;
+  margin-bottom: 0;
+  text-align: center;
+  color: black;
+
+}
+
+p {
+    text-align: center;
+    color: black;
+}
